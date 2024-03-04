@@ -1,4 +1,4 @@
 # sand-box
 sand box para aprender a manipular git 
-##descripcion
+## descripcion
 probando editar el readme
